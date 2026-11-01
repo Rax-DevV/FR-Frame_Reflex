@@ -49,12 +49,11 @@
 </tbody></table>
 <hr>
 <h2>NEW UPDATE = IMPROVED !</h2>
-<p><img src="https://img.itch.zone/aW1nLzI3NzY2MTI5LnBuZw==/original/ng7glJ.png"></p>
+<p><br></p>
+<h2><img src="https://img.itch.zone/aW1nLzI4OTA4NjAzLnBuZw==/original/FM1J99.png"></h2>
+<h3>BETTER UI !</h3>
+<p><img src="https://img.itch.zone/aW1nLzI4OTA4NjA3LnBuZw==/original/JaOTuz.png"></p>
 <h2>Adaptive Systems&nbsp;</h2>
-<p></p>
-<h3>NEW&nbsp;&nbsp;CUSTOM MODE</h3>
-<p>Customize your own mode and export it !&nbsp;</p>
-<p><img src="https://img.itch.zone/aW1nLzI3NzY2MTQ0LnBuZw==/original/fr70F%2F.png"><br></p>
 <p><br></p>
 <h3>Stutter Detection</h3>
 <p>Uses <strong>frame-time standard deviation</strong>, not just average FPS. Detects hitching even when average FPS looks healthy. Triggers an immediate scale-down when variance exceeds the threshold.</p>
@@ -72,7 +71,7 @@
 <h2>Setup &mdash; 2 Steps</h2>
 <ol>
   <li>Go to <strong>Project → Plugins → FR - Frame Reflex</strong> and set it to <strong>ON</strong></li>
-  <li>Go to <strong>Project → AutoLoad</strong> and add <strong>FRManager.gd</strong></li></ol>
+  <li>Go to <strong>Project → AutoLoad</strong> and add <strong>FrManager.gd</strong></li></ol>
 <hr>
 <p><em>Compatible with Godot 4.3 and above. Works on Windows, macOS, Linux, and Android.</em></p>
 <p>ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ</p>
